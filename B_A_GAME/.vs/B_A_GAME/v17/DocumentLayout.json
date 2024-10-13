@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\B_A_GAME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\b_a_game\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\b_a_game\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\B_A_GAME\\assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\PlayerCollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerCollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\B_A_GAME\\assets\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\B_A_GAME\\assets\\scripts\\damageoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damageoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\B_A_GAME\\assets\\skeleton\\readme\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\skeleton\\readme\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\B_A_GAME\\assets\\scripts\\spikeballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spikeballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\B_A_GAME\\assets\\scripts\\spikeballdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spikeballdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\B_A_GAME\\assets\\scripts\\cylindermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cylindermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\B_A_GAME\\assets\\scripts\\healthbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\B_A_GAME\\assets\\scripts\\linetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\linetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\B_A_GAME\\assets\\scripts\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\B_A_GAME\\assets\\scripts\\windzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\windzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\WindBlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WindBlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\B_A_GAME\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42587A4-77EC-86CF-A10B-9B5758CD131D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\desktop\\b_a_game\\assets\\scripts\\ske_health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\ske_health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\HealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\DamageDealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DamageDealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\GameOverHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameOverHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Fline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Fline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\EndLine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EndLine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Loose2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Loose2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:52:29.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Fline.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Fline.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fline.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Fline.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:31:59.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EndLine.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\EndLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndLine.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\EndLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:24:28.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Loose2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Loose2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Loose2.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Loose2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Loose2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:17:21.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCollision.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCollision.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:53:02.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpikeBallController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\SpikeBallController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpikeBallController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\SpikeBallController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpikeBallController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:19:59.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CylinderManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\CylinderManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CylinderManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\CylinderManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CylinderManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:30:06.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LineTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\LineTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LineTrigger.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\LineTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LineTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:11:17.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Moving.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Moving.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Moving.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Moving.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Moving.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:08:48.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:05:53.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameOverHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\GameOverHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\GameOverHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:10:24.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:43:58.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WindZone.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\WindZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WindZone.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\WindZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WindZone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:41:15.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewBehaviourScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:40:59.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WindBlock.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\WindBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WindBlock.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\WindBlock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WindBlock.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:57:44.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Damage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Damage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Damage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Damage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:48:16.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pool.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Pool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pool.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Pool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pool.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:11:53.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthBarController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\HealthBarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBarController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\HealthBarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:16:32.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DamageDealer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\DamageDealer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamageDealer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\DamageDealer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamageDealer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:06:57.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthManager.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:02:57.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DamageOnCollision.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\DamageOnCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamageOnCollision.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\DamageOnCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamageOnCollision.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:57:53.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpikeBallDamage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\SpikeBallDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpikeBallDamage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\SpikeBallDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpikeBallDamage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:21:21.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Readme.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Skeleton\\Readme\\Scripts\\Readme.cs",
+              "RelativeDocumentMoniker": "Assets\\Skeleton\\Readme\\Scripts\\Readme.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Skeleton\\Readme\\Scripts\\Readme.cs",
+              "RelativeToolTip": "Assets\\Skeleton\\Readme\\Scripts\\Readme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:33:44.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ske_Health.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Ske_Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ske_Health.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\Ske_Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ske_Health.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:58:08.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:42:39.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Moving.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Moving.cs",
+              "RelativeDocumentMoniker": "Assets\\Moving.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Moving.cs",
+              "RelativeToolTip": "Assets\\Moving.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:35:31.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\B_A_GAME\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:58:51.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
